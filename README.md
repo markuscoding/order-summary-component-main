@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:https://github.com/markuscoding/nft-preview-card-component
+- Solution URL:https://github.com/markuscoding/order-summary-component-main
 - Live Site URL:https://markuscoding.github.io/order-summary-component-main/
 
 ### Screenshot
