@@ -11,7 +11,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/markuscoding/nft-preview-card-component
-- Live Site URL:
+- Live Site URL:https://markuscoding.github.io/order-summary-component-main/
 
 ### Screenshot
 
